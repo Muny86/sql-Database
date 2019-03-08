@@ -1,0 +1,8 @@
+query 1 - UPDATE publishers SET hq_location='Hali', id='69-5437358' WHERE id='38-0982913'
+
+
+query 2 - SELECT * FROM best_selling_books, writer WHERE book_genre='Drama' AND best_seller='1'
+
+
+query 3 - INSERT into publishers (id, publisher, hq_location) VALUES (355, Bamboozled, Miami)
+			
